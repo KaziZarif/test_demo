@@ -1,2 +1,3 @@
 Practice file for git
 Updated file
+My favorite day is Saturday!
